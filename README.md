@@ -10,7 +10,7 @@ to be removed and the analysis need to be redone.
 - The school district summary was not affected much by the removal of the THS ninth grade scores
     ![District summary comparison](https://user-images.githubusercontent.com/103155045/177909176-d9df6bf1-990c-4416-9f1f-58da87711a8e.png)
 
-  - The school summary for show their scores for reading, math and overall passing percentage decrease slightly
+ - The school summary for show their scores for reading, math and overall passing percentage decrease slightly
     ![THS scores comparison](https://user-images.githubusercontent.com/103155045/177907883-60ecdb40-b7e6-41fe-8d15-0467f4936ca1.png)
     
 - After replacing the scores THS still ranks 2nd in overall by overall passing percentage
